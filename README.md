@@ -1,6 +1,3 @@
 # hello-world
-
-Hi Humans!
-
-My name is Madiar. I`am Kazakh.
-I'm learning English so don't judge me too harshly
+KZR это Будушее Казахстана по киберспорту Кс 1.6 основатели этой замечательной команды
+Мадияр и Никита
